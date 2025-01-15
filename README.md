@@ -2,7 +2,7 @@
 用于逃离后世mod，可设置中途加入、切换地图、生成物品或实体等功能
 
 安装方法：
-1、将ue4ss解压的所有文件放入到~\Steam\steamapps\common\EscapeTheBackrooms\EscapeTheBackrooms\Binaries\Win6\  里面
+1、将ue4ss解压的所有文件放入到~\Steam\steamapps\common\EscapeTheBackrooms\EscapeTheBackrooms\Binaries\Win6\  里面，在该目录下找到Mods文件夹里面的mods.txt文件，把BPModLoaderMod : 0修改为1
 2、将Paks解压的所有文件一并放入到~\Steam\steamapps\common\EscapeTheBackrooms\EscapeTheBackrooms\Content\Paks\  里面
 
 使用说明：
